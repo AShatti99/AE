@@ -1,0 +1,24 @@
+char cambiaV(char c) {
+  int v = c - '0';   // codice 0 = 0x30
+  if(v >= 0 && v <= 9) {
+    v = (v+5);
+    if(v > 9)
+      v = v/2;
+  }
+  c = v + '0';
+  return(c);
+}
+
+int cambia(char * s) {
+
+  int ls = strlen(s);
+  int sum = 0;
+  for(int i=0; i<ls; i++) {
+    int cc = cambiaV(s[i]);
+    if(cc != s[i]) {
+      s[i] = cc;
+      sum++;
+    }
+  }
+  return(sum);
+}
