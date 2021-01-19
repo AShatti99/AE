@@ -1,0 +1,8 @@
+Si richiede di scrivere due funzioni in codice assembler ARMv7:
+
+• una funzione con signature void subst(node_t * p) che scorre la lista e per ognuno degli elementi trovati, qualora ci sia un elemento successivo 
+  e le informazioni dei due elementi della lista risultino disordinati (informazione del primo elemento maggiore di quella dell’elemento successivo) 
+  scambiano i valori dei due campi informazione.
+
+• Una funzione di signature void print(node_t * p) che stampi uno dopo l’altro, nell’ordine, tutti i campi informazione che compaiono nella lista 
+  puntata da p. Ogni elemento dovrà essere stampato con una chiamata alla funzione di libreria tipo printf(“%d -> “,info).
