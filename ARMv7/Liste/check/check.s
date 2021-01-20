@@ -16,8 +16,8 @@ loop:   cmp r0, #0              @ se la lista e' vuota
         ldr r2, [r0]            @ cur->info
         ldr r3, [r1]            @ cur->next->info
         cmp r2, r3              @ se r2 > r3
-        movgt r1, #0            @ r1 =0
-        bgt end                 @ vai a ned
+        movgt r1, #0            @ r1 = 0
+        bgt end                 @ vai a end
         mov r0, r1              @ cur=cur->next
         b loop
 
