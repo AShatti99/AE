@@ -1,0 +1,4 @@
+Scrivere il codice della funzione filtrapari che riceve come parametri:
+- la lunghezza del vettore (n)
+- l'indirizzo base del vettore v di interi di n posizioni
+e sostituisce con 0 tutti gli elementi di valore pari nel vettore.
