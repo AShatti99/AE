@@ -6,8 +6,7 @@ fmt:    .string "Fibo(4) = %d\n"
 main:   push {lr}
         mov r0, #4
         bl fibo
-
-end:    mov r1, r0
+        mov r1, r0
         ldr r0, =fmt
         bl printf
         pop {lr}
