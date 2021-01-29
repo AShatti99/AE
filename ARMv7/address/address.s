@@ -1,5 +1,6 @@
-        .text
+        .data
 v:      .word 1, 2, 3, 4, 5
+        .text
         .global main
                                   @ |      valore             |      r1        |        r0      | NOTE
 main:   ldr r0, =v                @ |                         |                |      66512     |
