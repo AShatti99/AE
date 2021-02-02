@@ -26,6 +26,7 @@ Old exams *
 * [E - strlen *](https://github.com/AShatti99/AE/tree/main/ARMv7/strlen/E)
 * [Reverse](https://github.com/AShatti99/AE/blob/main/ARMv7/reverse/reverse.s)
 * [Odd Vowels](https://github.com/AShatti99/AE/tree/main/ARMv7/oddVowels)
+* [Insertion Sort](https://github.com/AShatti99/AE/blob/main/ARMv7/insertionSort/insSort.s)
 
 ### Exercises about linked list
 * [Print list](https://github.com/AShatti99/AE/tree/main/ARMv7/Liste/stampa)
