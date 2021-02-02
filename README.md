@@ -15,6 +15,7 @@ Old exams *
 * [Search *](https://github.com/AShatti99/AE/blob/main/ARMv7/cerca/member.s)
 * [Factorial](https://github.com/AShatti99/AE/blob/main/ARMv7/fattoriale/fact.s)
 * [Fibonacci](https://github.com/AShatti99/AE/blob/main/ARMv7/fibonacci/fibo.s)
+* [Duplicate](https://github.com/AShatti99/AE/tree/main/ARMv7/duplicate)
 
 ### Exercises about strings
 * [Uppercase](https://github.com/AShatti99/AE/blob/main/ARMv7/capitalize/caps.s)
