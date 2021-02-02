@@ -1,4 +1,4 @@
-@ retituire 1 se il numero di vocali dati in input e' dispari, altrimenti restituire 0
+@ restituire 1 se il numero di vocali dati in input e' dispari, altrimenti restituire 0
 
            .text
            .global oddVowels
