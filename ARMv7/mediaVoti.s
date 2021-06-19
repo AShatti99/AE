@@ -20,13 +20,15 @@ somma:  ldr r2, [r1], #4        @ carico un numero
         pusheq {lr}             @               altrimenti faccio la divisione
         bleq div
 
-end:    ldr r0, =str
+end:    mov r1, r0
+        ldr r0, =str
         bl printf
         pop {pc}
 
 
 div:    mov r1, #0              @ r1 = risultato divisione
 for:    cmp r0, r3
+        movlt r0, r1            @ per convenzione il risultato deve essere poi spostato in r0
         movlt pc, lr
         sub r0, r0, r3
         add r1, r1, #1
