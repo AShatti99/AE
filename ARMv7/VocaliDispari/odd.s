@@ -19,11 +19,11 @@ for:    ldrb r2, [r0]
         addeq r1, r1, #1
         cmp r2, #101            @ se r3 == 'e'
         addeq r1, r1, #1
-        cmp r2, #105            @ se r == 'i'
+        cmp r2, #105            @ se r3 == 'i'
         addeq r1, r1, #1
-        cmp r2, #111            @ se r == 'o'
+        cmp r2, #111            @ se r3 == 'o'
         addeq r1, r1, #1
-        cmp r2, #117            @ se r == 'u'
+        cmp r2, #117            @ se r3 == 'u'
         addeq r1, r1, #1
 
         add r0, r0, #1
