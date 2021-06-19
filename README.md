@@ -1,5 +1,5 @@
-# AE
-Architettura degli elaboratori: esercizi in assembler ARMv7
+# Architettura degli elaboratori
+Esercizi in assembler ARMv7
 
 ## Costrutti base
 * [InnerProduct](https://github.com/AShatti99/AE/tree/main/ARMv7/IP)
