@@ -2,7 +2,7 @@
         .global convstring
                                 @ r0 = stringa
 convstring:     mov r2, #0      @ somma
-                mov r3, #16     @ accumulatore di 16
+                mov r3, #16     
 
         push {lr}
 for:    ldrb r1, [r0]
