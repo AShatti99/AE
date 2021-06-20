@@ -3,14 +3,14 @@ Esercizi in assembler ARMv7
 
 Vecchi esami *
 ## Costrutti base
-* [InnerProduct](https://github.com/AShatti99/AE/tree/main/ARMv7/IP)
-* [MediaVoti](https://github.com/AShatti99/AE/blob/main/ARMv7/mediaVoti.s)
+* [Inner Product](https://github.com/AShatti99/AE/tree/main/ARMv7/IP)
+* [Media Voti](https://github.com/AShatti99/AE/blob/main/ARMv7/mediaVoti.s)
 * [Fattoriale](https://github.com/AShatti99/AE/blob/main/ARMv7/fattoriale.s)
 * [Polinomio](https://github.com/AShatti99/AE/blob/main/ARMv7/polinomio.s)
-* [CercaElemento](https://github.com/AShatti99/AE/tree/main/ARMv7/cerca)
+* [Cerca Elemento](https://github.com/AShatti99/AE/tree/main/ARMv7/cerca)
 * [FiltraPari *](https://github.com/AShatti99/AE/blob/main/ARMv7/filtraPari.s)
-* [Converti_da_Esadecimale_a_Decimale *](https://github.com/AShatti99/AE/tree/main/ARMv7/ConvertiDaEsadecimaleADecimale)
+* [Converti da Esadecimale a Decimale *](https://github.com/AShatti99/AE/tree/main/ARMv7/ConvertiDaEsadecimaleADecimale)
 
 ## Stringhe
-* [UpperCase](https://github.com/AShatti99/AE/blob/main/ARMv7/upperCase.s)
-* [VocaliDispari](https://github.com/AShatti99/AE/tree/main/ARMv7/VocaliDispari)
+* [Uppercase](https://github.com/AShatti99/AE/blob/main/ARMv7/upperCase.s)
+* [Vocali Dispari](https://github.com/AShatti99/AE/tree/main/ARMv7/VocaliDispari)
