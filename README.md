@@ -9,7 +9,7 @@ Vecchi esami *
 * [Polinomio](https://github.com/AShatti99/AE/blob/main/ARMv7/polinomio.s)
 * [CercaElemento](https://github.com/AShatti99/AE/tree/main/ARMv7/cerca)
 * [FiltraPari *](https://github.com/AShatti99/AE/blob/main/ARMv7/filtraPari.s)
-* [Converti_da_Esadecimale_a_Decimale *](https://github.com/AShatti99/AE/tree/main/ARMv7/ConvertiDaEsadecimaleABinario)
+* [Converti_da_Esadecimale_a_Decimale *](https://github.com/AShatti99/AE/tree/main/ARMv7/ConvertiDaEsadecimaleADecimale)
 
 ## Stringhe
 * [UpperCase](https://github.com/AShatti99/AE/blob/main/ARMv7/upperCase.s)
