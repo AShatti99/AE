@@ -8,7 +8,7 @@ Vecchi esami *
 * [Fattoriale](https://github.com/AShatti99/AE/blob/main/ARMv7/fattoriale.s)
 * [Polinomio](https://github.com/AShatti99/AE/blob/main/ARMv7/polinomio.s)
 * [Cerca Elemento](https://github.com/AShatti99/AE/tree/main/ARMv7/cerca)
-* [FiltraPari *](https://github.com/AShatti99/AE/blob/main/ARMv7/filtraPari.s)
+* [Filtra Pari *](https://github.com/AShatti99/AE/blob/main/ARMv7/filtraPari.s)
 * [Converti da Esadecimale a Decimale *](https://github.com/AShatti99/AE/tree/main/ARMv7/ConvertiDaEsadecimaleADecimale)
 
 ## Stringhe
