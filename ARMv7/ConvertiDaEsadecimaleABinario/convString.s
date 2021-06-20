@@ -8,8 +8,11 @@ convstring:     mov r2, #0      @ somma
 for:    ldrb r1, [r0]
         cmp r1, #0              @ se r1 == NULL, esci
         beq end
-
+        
+        push {r0}
         bl convDigit            @ trasforma il carattere in un numero
+        mov r1, r0
+        pop {r0}
 
         mul r2, r2, r3          @ somma = somma * 16
         add r2, r2, r1          @ somma = somma + r1
