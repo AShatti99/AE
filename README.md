@@ -15,6 +15,7 @@ Vecchi esami *
 * [Uppercase](https://github.com/AShatti99/AE/blob/main/ARMv7/upperCase.s)
 * [Vocali Dispari](https://github.com/AShatti99/AE/tree/main/ARMv7/VocaliDispari)
 * [A - strlen *](https://github.com/AShatti99/AE/tree/main/ARMv7/strlen/A)
+* [B - strlen *](https://github.com/AShatti99/AE/tree/main/ARMv7/strlen/B)
 
 ## Liste
 * [Cerca Elemento](https://github.com/AShatti99/AE/tree/main/ARMv7/cercaLista)
