@@ -18,6 +18,7 @@ Vecchi esami *
 * [B - strlen *](https://github.com/AShatti99/AE/tree/main/ARMv7/strlen/B)
 * [C - strlen *](https://github.com/AShatti99/AE/tree/main/ARMv7/strlen/C)
 * [D - strlen *](https://github.com/AShatti99/AE/tree/main/ARMv7/strlen/D)
+* [E - strlen *](https://github.com/AShatti99/AE/tree/main/ARMv7/strlen/E)
 
 ## Liste
 * [Cerca Elemento](https://github.com/AShatti99/AE/tree/main/ARMv7/cercaLista)
