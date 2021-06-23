@@ -23,3 +23,4 @@ Vecchi esami *
 ## Liste
 * [Cerca Elemento](https://github.com/AShatti99/AE/tree/main/ARMv7/cercaLista)
 * [Max](https://github.com/AShatti99/AE/tree/main/ARMv7/max)
+* [Subst *](https://github.com/AShatti99/AE/tree/main/ARMv7/subst)
