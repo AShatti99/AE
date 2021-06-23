@@ -1,0 +1,21 @@
+int cambiaV(char *s, int i, int j) {
+  int cambio = 0;
+  if(s[i] > s[j]) {
+    char c = s[i];
+    s[i] = s[j];
+    s[j] = c;
+    cambio = 1;
+  }
+  return(cambio);
+}
+
+int cambia(char * s) {
+
+  int ls = strlen(s);
+  int sum = 0;
+  
+  for(int i=0; i<ls-1; i++)
+    for(int j=i+1; j<ls; j++)
+      sum += cambiaV(s,i,j);
+  return(sum);
+}
