@@ -2,9 +2,9 @@
         .global cambia
 
 cambia: push {r0, r4-r6, lr}
-        bl strlen               @ r0 = puntatore alla stringa 
+        bl strlen                
         mov r1, r0              @ r1 = ls
-        pop {r0}
+        pop {r0}                @ r0 = puntatore alla stringa
         mov r2, #0              @ r2 -> sum = 0
 
         mov r3, #0              @ r3 -> i = 0
