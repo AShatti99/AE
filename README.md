@@ -10,6 +10,7 @@ Vecchi esami *
 * [Cerca Elemento](https://github.com/AShatti99/AE/tree/main/ARMv7/cerca)
 * [Filtra Pari *](https://github.com/AShatti99/AE/blob/main/ARMv7/filtraPari.s)
 * [Member *](https://github.com/AShatti99/AE/blob/main/ARMv7/member.s)
+* [Da Binario a Decimale](https://github.com/AShatti99/AE/tree/main/ARMv7/ConvertiDaBinarioADecimale)
 
 
 ## Stringhe
@@ -20,7 +21,7 @@ Vecchi esami *
 * [C - strlen *](https://github.com/AShatti99/AE/tree/main/ARMv7/strlen/C)
 * [D - strlen *](https://github.com/AShatti99/AE/tree/main/ARMv7/strlen/D)
 * [E - strlen *](https://github.com/AShatti99/AE/tree/main/ARMv7/strlen/E)
-* [Converti da Esadecimale a Decimale *](https://github.com/AShatti99/AE/tree/main/ARMv7/ConvertiDaEsadecimaleADecimale)
+* [Da Esadecimale a Decimale *](https://github.com/AShatti99/AE/tree/main/ARMv7/ConvertiDaEsadecimaleADecimale)
 * [Reverse](https://github.com/AShatti99/AE/blob/main/ARMv7/reserve.s)
 
 ## Liste
