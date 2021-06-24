@@ -9,7 +9,7 @@ Vecchi esami *
 * [Polinomio](https://github.com/AShatti99/AE/blob/main/ARMv7/polinomio.s)
 * [Cerca Elemento](https://github.com/AShatti99/AE/tree/main/ARMv7/cerca)
 * [Filtra Pari *](https://github.com/AShatti99/AE/blob/main/ARMv7/filtraPari.s)
-* [Converti da Esadecimale a Decimale *](https://github.com/AShatti99/AE/tree/main/ARMv7/ConvertiDaEsadecimaleADecimale)
+
 
 ## Stringhe
 * [Uppercase](https://github.com/AShatti99/AE/blob/main/ARMv7/upperCase.s)
@@ -19,6 +19,7 @@ Vecchi esami *
 * [C - strlen *](https://github.com/AShatti99/AE/tree/main/ARMv7/strlen/C)
 * [D - strlen *](https://github.com/AShatti99/AE/tree/main/ARMv7/strlen/D)
 * [E - strlen *](https://github.com/AShatti99/AE/tree/main/ARMv7/strlen/E)
+* [Converti da Esadecimale a Decimale *](https://github.com/AShatti99/AE/tree/main/ARMv7/ConvertiDaEsadecimaleADecimale)
 * [Reverse](https://github.com/AShatti99/AE/blob/main/ARMv7/reserve.s)
 
 ## Liste
