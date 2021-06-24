@@ -9,6 +9,7 @@ Vecchi esami *
 * [Polinomio](https://github.com/AShatti99/AE/blob/main/ARMv7/polinomio.s)
 * [Cerca Elemento](https://github.com/AShatti99/AE/tree/main/ARMv7/cerca)
 * [Filtra Pari *](https://github.com/AShatti99/AE/blob/main/ARMv7/filtraPari.s)
+* [Member *](https://github.com/AShatti99/AE/blob/main/ARMv7/member.s)
 
 
 ## Stringhe
