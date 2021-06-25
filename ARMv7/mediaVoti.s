@@ -13,7 +13,7 @@ main:   mov r0, #0              @ somma voti
 
 somma:  ldr r2, [r1], #4        @ carico un numero
         cmp r2, #-1             @ controllo:
-        addne r0, r0, r2        @               se e' uguale a -1, lo inserisco nella nella somma
+        addne r0, r0, r2        @               se e' diverso a -1, lo inserisco nella nella somma
         addne r3, r3, #1        @               e incremento l'indice
         bne somma               @               e torno a somma
 
