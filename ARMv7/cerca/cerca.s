@@ -17,7 +17,7 @@ loop:   ldr r4, [r1], #4
         cmp r0, r4              @ se si e' trovato l'elemento, esci
         beq end
         add r3, r3, #1          @ posizione++
-        cmp r3, r2              @ se posizione >  n: r3 = -1, esci
+        cmp r3, r2              @ se posizione >  n allora r3 = -1, esci
         movgt r3, #-1
         bgt end
         b loop
