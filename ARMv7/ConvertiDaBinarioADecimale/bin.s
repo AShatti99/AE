@@ -11,8 +11,8 @@ for:    ldrb r2, [r0]
 
         sub r2, r2, #48         @ fai diventare il carattere un numero
 
-        lsl r1, r1, #1          @ r1 = r1 * 2
-        add r1, r1, r2          @ somma += r2
+        lsl r1, r1, #1          @ somma = somma * 2
+        add r1, r1, r2          @ somma = somma + r2
         add r0, r0, #1          @ vai avanti con il prossimo carattere
         b for
 
