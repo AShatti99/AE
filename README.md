@@ -11,6 +11,7 @@ Vecchi esami *
 * [Filtra Pari *](https://github.com/AShatti99/AE/blob/main/ARMv7/filtraPari.s)
 * [Member *](https://github.com/AShatti99/AE/blob/main/ARMv7/member.s)
 * [Da Binario a Decimale](https://github.com/AShatti99/AE/tree/main/ARMv7/ConvertiDaBinarioADecimale)
+* [Somma multipli di 8 *](https://github.com/AShatti99/AE/tree/main/ARMv7/somma)
 
 
 ## Stringhe
