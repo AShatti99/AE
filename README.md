@@ -23,6 +23,7 @@ Vecchi esami *
 * [E - strlen *](https://github.com/AShatti99/AE/tree/main/ARMv7/strlen/E)
 * [Da Esadecimale a Decimale *](https://github.com/AShatti99/AE/tree/main/ARMv7/ConvertiDaEsadecimaleADecimale)
 * [Reverse](https://github.com/AShatti99/AE/blob/main/ARMv7/reserve.s)
+* [Ordinare array di stringhe](https://github.com/AShatti99/AE/blob/main/ARMv7/sortStr.s)
 
 ## Liste
 * [Cerca Elemento](https://github.com/AShatti99/AE/tree/main/ARMv7/cercaLista)
