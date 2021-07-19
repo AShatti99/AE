@@ -26,7 +26,7 @@ for:    cmp r1, #0
         beq print
         ldr r2, [r0, r4]
         mov r3, r2              @ r3 = valore di supporto per ricordarsi temporaneamente il valore di r2
-        and r2, #81             @ r2 && 1: quindi i valori pari diventano 0, i valori dispari diventano 1
+        and r2, r2, #1          @ r2 && 1: quindi i valori pari diventano 0, i valori dispari diventano 1
         cmp r2, #1              @ se r2 == 1, allora r2 si riprende il suo valore
         moveq r2, r3
         strne r2, [r0, r4]      @ se r2 == 0, riscrivilo in memoria
