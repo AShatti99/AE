@@ -1,7 +1,8 @@
 # Architettura degli elaboratori
-Esercizi in assembler ARMv7
+[Modulo di teoria](https://github.com/AShatti99/Appunti/blob/main/AE.pdf)
 
-Vecchi esami *
+Esercizi:
+vecchi esami *
 ## Costrutti base
 * [Inner Product](https://github.com/AShatti99/AE/tree/main/ARMv7/IP)
 * [Media Voti](https://github.com/AShatti99/AE/blob/main/ARMv7/mediaVoti.s)
